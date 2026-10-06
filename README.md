@@ -143,8 +143,8 @@ in live webcam frames at **~150 ms/frame on CPU**. A debounced event pipeline st
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=CodeXAniket&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=22D3EE&icon_color=22D3EE" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeXAniket&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=22D3EE" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=CodeXAniket&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=22D3EE&icon_color=22D3EE" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=CodeXAniket&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=22D3EE" alt="Top languages" />
 
 <br/>
 
